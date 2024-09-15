@@ -7,7 +7,7 @@ export default function CareersError() {
     <div>
         <h2>Error</h2>
         <p>{ error.message }</p>
-        <Link to='/'>Back To The Homepage</Link>
+        <Link to='/react-route/'>Back To The Homepage</Link>
     </div>
   )
 }
